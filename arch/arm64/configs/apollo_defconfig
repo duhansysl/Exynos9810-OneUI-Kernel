@@ -21,10 +21,6 @@ CONFIG_KSWAPD_CPU=0x3F
 # CONFIG_PELT_HALFLIFE_32 is not set
 CONFIG_PELT_HALFLIFE_16=y
 # CONFIG_PELT_HALFLIFE_8 is not set
-#
-# SEC Memory Management Options
-#
-CONFIG_SEC_MM=y
 
 #
 # MoroSound
